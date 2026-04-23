@@ -1,11 +1,12 @@
 #!/bin/bash
-
-
+###############################
 # Name : Mohammad Shadulla
 # Date : 23 april 2026
 
 # This script will report AWS resource usage
 ################################
+
+set -x
 
 # AWS S3
 # AWS EC2
